@@ -6,7 +6,6 @@
 #include <M5StickCPlus.h>
 #include <WiFi.h>
 #include <secrets.h>
-#include "time_server.h"
 
 char ssid[] = SECRET_CASTEL_SSID;
 char password[] = SECRET_CASTEL_PASS;
