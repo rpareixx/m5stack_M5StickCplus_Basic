@@ -13,6 +13,7 @@ char password[] = SECRET_CASTEL_PASS;
 #define CONNECTION_TIMEOUT 10
 
 IPAddress local_IP(192, 168, 1, 48);
+
 IPAddress primaryDNS(8, 8, 8, 8);    // optional
 IPAddress secondaryDNS(8, 8, 4, 4);  // optional
 IPAddress gateway(192, 168, 0, 1);

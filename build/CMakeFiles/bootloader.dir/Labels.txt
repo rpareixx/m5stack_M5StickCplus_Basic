@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/rparei1/SW_development/repositories/m5stack_M5StickCplus_Basic/build/CMakeFiles/bootloader
+/Users/rparei1/SW_development/repositories/m5stack_M5StickCplus_Basic/build/CMakeFiles/bootloader.rule
+/Users/rparei1/SW_development/repositories/m5stack_M5StickCplus_Basic/build/CMakeFiles/bootloader-complete.rule
+/Users/rparei1/SW_development/repositories/m5stack_M5StickCplus_Basic/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/rparei1/SW_development/repositories/m5stack_M5StickCplus_Basic/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/rparei1/SW_development/repositories/m5stack_M5StickCplus_Basic/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/rparei1/SW_development/repositories/m5stack_M5StickCplus_Basic/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/rparei1/SW_development/repositories/m5stack_M5StickCplus_Basic/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/rparei1/SW_development/repositories/m5stack_M5StickCplus_Basic/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/rparei1/SW_development/repositories/m5stack_M5StickCplus_Basic/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
